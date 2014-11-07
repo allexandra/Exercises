@@ -42,5 +42,6 @@ a = Lifo.new
 a.push "a"
 a.push 1
 a.push 'abc'
+a.print_elements
 a.pop
 a.print_elements
